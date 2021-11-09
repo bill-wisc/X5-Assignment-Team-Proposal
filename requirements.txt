@@ -1,0 +1,10 @@
+Your team project design must include the following
+1. Title: What is your project's title? 
+    Future requirement:
+    include your xteam number, lecture number, and the names and netid@wisc.edu of each xteam member.
+2. Problem: What problem does your program solve?
+3. Primary stakeholder: Who will use your program?
+4. Graphical User interface: Revise and update the sketches of the user interface screens, menus, and options.
+5. Data Structure: What type of ADT or data structure will be needed  and used  by your program?
+6. Input Data File Format: Provide a sample input data file.
+7. Output Example: Provide an example image of the output possible from the program.  This example may be drawn, or created using any word or image editor program of your choice.
